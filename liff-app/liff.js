@@ -270,3 +270,4 @@ function liffToggleDeviceLedState(state) {
         uiStatusError(makeErrorMsg(error), false);
     });
 }
+
